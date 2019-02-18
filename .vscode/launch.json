@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorldSpringApplication",
+            "request": "launch",
+            "mainClass": "com.amitwaves.HelloWorldSpring.HelloWorldSpringApplication",
+            "projectName": "HelloWorldSpring"
+        }
+    ]
+}
